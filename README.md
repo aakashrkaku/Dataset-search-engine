@@ -29,7 +29,7 @@
 
 ![Alt text](s2.png?raw=true "Title")
 
-## Query Example : NYC Open Data website returns nothing for keyword = "uber" but our engine does - most importantly, its a relevent one.
+## Query Example : NYC Open Data website returns nothing for keyword = "uber" but our engine does - most importantly, its a relevant one.
 
 ![Alt text](s3.png?raw=true "Title")
 
